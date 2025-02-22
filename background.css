@@ -1,0 +1,116 @@
+.violletfo{
+    height:480.21px ;
+    width:530px ;
+    background-color: #BD64F9;
+    border-radius:50% ;
+    box-shadow: 0px 10px 10px 10px #9546c9;
+    position: absolute;
+    opacity:28% ;
+    top:-220px ;
+    right:35px ;
+    filter: blur(35px);
+    z-index:-1 ;
+}
+.coulj{
+    height:500.21px ;
+    width:600px ;
+    background-color: #EFD157;
+    border-radius:50% ;
+    box-shadow: 0px 40px 40px 40px #EFD157;
+    position: absolute;
+    opacity:20% ;
+    top:8px ;
+    left:-300px ;
+    filter: blur(35px);
+    z-index:-1 ;
+
+}
+.coulb{
+    height:430.21px ;
+    width:400px ;
+    background-color: #378BF1;
+    border-radius:50% ;
+    box-shadow: 0px 30px 30px 30px #378BF1;
+    position: absolute;
+    opacity:20% ;
+    top:450px ;
+    right: -80px ;
+    filter: blur(40px);
+    z-index:-1 ;
+
+}
+.coulv{
+    height:570.21px ;
+    width:400px ;
+    background-color: #37F1DB;
+    border-radius:50% ;
+    box-shadow: 0px 50px 50px 50px #37F1DB;
+    position: absolute;
+    opacity:30% ;
+    top:850px ;
+    left:-250px ;
+    filter: blur(60px);
+    z-index:-1 ;
+}
+.couljn{
+    margin-top: 120px;
+    height:570.21px ;
+    width:600px ;
+    background-color: #EFD157;
+    border-radius:50% ;
+    box-shadow: 0px 40px 40px 40px #EFD157;
+    position: absolute;
+    opacity:20% ;
+    top:1000px ;
+    right:-300px ;
+    filter: blur(35px);
+    z-index:-1 ;
+
+}
+.coulve{
+    margin-top: 30px;
+    height:570.21px ;
+    width:400px ;
+    background-color: #EFCF56;
+    border-radius:50% ;
+    box-shadow: 0px 50px 50px 50px #EFCF56;
+    position: absolute;
+    opacity:30% ;
+    top:1450px ;
+    left:-50px ;
+    filter: blur(60px);
+    z-index:-1 ;
+}
+.coulviolli{
+    background-color: #AF36FF;
+    box-shadow: 0px 50px 50px 50px #AF36FF;  
+    position: absolute;
+    /* top:none ; */
+    top:2680px ;
+    right:-30px ;
+    width: 300px;
+    height: 230px;
+    border-radius: 50%;
+    opacity:25% ;
+    filter: blur(60px);
+    z-index:-1 ;
+    
+}
+
+.coulji{
+    background-color: #EFCF56;
+    box-shadow: 0px 50px 50px 50px #EFCF56;  
+    position: absolute;
+    /* top:none ; */
+    top:2800px ;
+    left:-30px ;
+    width: 300px;
+    height: 230px;
+    border-radius: 50%;
+    opacity:45% ;
+    filter: blur(60px);
+    z-index:-1 ;
+    
+
+}
+
